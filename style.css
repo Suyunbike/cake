@@ -1,0 +1,98 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    padding: 80px;
+    margin: 10px;
+}
+
+.parent {
+    width: 200px;
+    height: 320px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.flame {
+    width: 10px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-color: #e8d21d;
+    border-radius: 50% 50% 50% 50%;
+}
+
+.candle {
+    width: 10px;
+    height: 75px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #fffef2;
+}
+
+.cake1 {
+    width: 120px;
+    height: 75px;
+    position: absolute;
+    top: 95px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-color: #cf1578;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cream {
+    position: absolute;
+    bottom: 35px;
+    background-color: mintcream;
+    height: 10px;
+}
+
+.cream1 {
+    width: 120px;
+}
+
+.cake2 {
+    width: 160px;
+    height: 75px;
+    position: absolute;
+    top: 170px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #e8d21d;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cream2 {
+    width: 160px;
+}
+
+.cake3 {
+    width: 200px;
+    height: 75px;
+    position: absolute;
+    top: 245px;
+    background-color: #309fbe;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cream3 {
+    width: 200px;
+}
